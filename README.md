@@ -54,6 +54,10 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+### Employee Data
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b56c4df4-047b-4200-adff-78fc3e1a0281" />
+
+
 
 
 ### PREPROCESSING
